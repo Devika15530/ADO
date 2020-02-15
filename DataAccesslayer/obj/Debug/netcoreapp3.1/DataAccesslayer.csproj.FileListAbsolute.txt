@@ -1,0 +1,10 @@
+E:\devika\ADO\DataAccesslayer\bin\Debug\netcoreapp3.1\DataAccesslayer.deps.json
+E:\devika\ADO\DataAccesslayer\bin\Debug\netcoreapp3.1\DataAccesslayer.dll
+E:\devika\ADO\DataAccesslayer\obj\Debug\netcoreapp3.1\DataAccesslayer.csprojAssemblyReference.cache
+E:\devika\ADO\DataAccesslayer\obj\Debug\netcoreapp3.1\DataAccesslayer.AssemblyInfoInputs.cache
+E:\devika\ADO\DataAccesslayer\obj\Debug\netcoreapp3.1\DataAccesslayer.AssemblyInfo.cs
+E:\devika\ADO\DataAccesslayer\bin\Debug\netcoreapp3.1\DataAccesslayer.runtimeconfig.json
+E:\devika\ADO\DataAccesslayer\bin\Debug\netcoreapp3.1\DataAccesslayer.runtimeconfig.dev.json
+E:\devika\ADO\DataAccesslayer\bin\Debug\netcoreapp3.1\DataAccesslayer.pdb
+E:\devika\ADO\DataAccesslayer\obj\Debug\netcoreapp3.1\DataAccesslayer.dll
+E:\devika\ADO\DataAccesslayer\obj\Debug\netcoreapp3.1\DataAccesslayer.pdb

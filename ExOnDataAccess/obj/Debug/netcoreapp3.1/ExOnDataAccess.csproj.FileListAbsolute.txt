@@ -1,0 +1,10 @@
+E:\devika\ADO\ExOnDataAccess\bin\Debug\netcoreapp3.1\ExOnDataAccess.deps.json
+E:\devika\ADO\ExOnDataAccess\bin\Debug\netcoreapp3.1\ExOnDataAccess.dll
+E:\devika\ADO\ExOnDataAccess\obj\Debug\netcoreapp3.1\ExOnDataAccess.csprojAssemblyReference.cache
+E:\devika\ADO\ExOnDataAccess\obj\Debug\netcoreapp3.1\ExOnDataAccess.AssemblyInfoInputs.cache
+E:\devika\ADO\ExOnDataAccess\obj\Debug\netcoreapp3.1\ExOnDataAccess.AssemblyInfo.cs
+E:\devika\ADO\ExOnDataAccess\bin\Debug\netcoreapp3.1\ExOnDataAccess.runtimeconfig.json
+E:\devika\ADO\ExOnDataAccess\bin\Debug\netcoreapp3.1\ExOnDataAccess.runtimeconfig.dev.json
+E:\devika\ADO\ExOnDataAccess\bin\Debug\netcoreapp3.1\ExOnDataAccess.pdb
+E:\devika\ADO\ExOnDataAccess\obj\Debug\netcoreapp3.1\ExOnDataAccess.dll
+E:\devika\ADO\ExOnDataAccess\obj\Debug\netcoreapp3.1\ExOnDataAccess.pdb

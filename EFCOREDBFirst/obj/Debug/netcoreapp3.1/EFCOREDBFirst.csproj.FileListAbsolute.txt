@@ -1,0 +1,10 @@
+E:\devika\ADO\EFCOREDBFirst\bin\Debug\netcoreapp3.1\EFCOREDBFirst.deps.json
+E:\devika\ADO\EFCOREDBFirst\bin\Debug\netcoreapp3.1\EFCOREDBFirst.dll
+E:\devika\ADO\EFCOREDBFirst\obj\Debug\netcoreapp3.1\EFCOREDBFirst.csprojAssemblyReference.cache
+E:\devika\ADO\EFCOREDBFirst\obj\Debug\netcoreapp3.1\EFCOREDBFirst.AssemblyInfoInputs.cache
+E:\devika\ADO\EFCOREDBFirst\obj\Debug\netcoreapp3.1\EFCOREDBFirst.AssemblyInfo.cs
+E:\devika\ADO\EFCOREDBFirst\bin\Debug\netcoreapp3.1\EFCOREDBFirst.runtimeconfig.json
+E:\devika\ADO\EFCOREDBFirst\bin\Debug\netcoreapp3.1\EFCOREDBFirst.runtimeconfig.dev.json
+E:\devika\ADO\EFCOREDBFirst\bin\Debug\netcoreapp3.1\EFCOREDBFirst.pdb
+E:\devika\ADO\EFCOREDBFirst\obj\Debug\netcoreapp3.1\EFCOREDBFirst.dll
+E:\devika\ADO\EFCOREDBFirst\obj\Debug\netcoreapp3.1\EFCOREDBFirst.pdb

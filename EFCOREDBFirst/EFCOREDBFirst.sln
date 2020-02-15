@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCOREDBFirst", "EFCOREDBFirst.csproj", "{214A5D2D-A3C6-481C-9A2A-F74097FD969E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmClient", "..\EmClient\EmClient.csproj", "{57004F4A-DC53-4156-8D74-223F0E56BDEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{214A5D2D-A3C6-481C-9A2A-F74097FD969E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{214A5D2D-A3C6-481C-9A2A-F74097FD969E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{214A5D2D-A3C6-481C-9A2A-F74097FD969E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{214A5D2D-A3C6-481C-9A2A-F74097FD969E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57004F4A-DC53-4156-8D74-223F0E56BDEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57004F4A-DC53-4156-8D74-223F0E56BDEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57004F4A-DC53-4156-8D74-223F0E56BDEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57004F4A-DC53-4156-8D74-223F0E56BDEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F57B0B1F-921C-406B-8883-0C4066E2C2F2}
+	EndGlobalSection
+EndGlobal
